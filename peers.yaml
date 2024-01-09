@@ -1017,3 +1017,8 @@ AS211358:
     description: Patrizio Palumbo
     import: AS-IPV6GO
     export: AS8283:AS-COLOCLUE
+
+AS8540:
+    description: AMA netwoRX GmbH
+    import: AS-AMANET
+    export: AS8283:AS-COLOCLUE
